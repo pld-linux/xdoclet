@@ -62,6 +62,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%{_datadir}/xdoclet
 %{_datadir}/xdoclet/lib
 %{_datadir}/xdoclet/ant
 %{_datadir}/xdoclet/loader
