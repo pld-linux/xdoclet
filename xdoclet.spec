@@ -11,7 +11,7 @@ Source1:	http://dl.sourceforge.net/xdoclet/%{name}-base-locale-%{version}.jar
 # Source1-md5:	b919d7fd36822797497b75734f1e7b08
 URL:		http://xdoclet.sourceforge.net/
 BuildRequires:	jdk
-BuildRequires:	jakarta-ant
+BuildRequires:	ant
 BuildRequires:	maven
 Requires:	jdk
 BuildArch:	noarch
