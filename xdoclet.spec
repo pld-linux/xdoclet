@@ -1,5 +1,5 @@
 Summary:	XDoclet - a code generation engine for Java
-Summary(pl):	XDoclet - silnik generowania kodu w Javie
+Summary(pl.UTF-8):   XDoclet - silnik generowania kodu w Javie
 Name:		xdoclet
 Version:	1.2
 Release:	1
@@ -22,20 +22,20 @@ XDoclet is an extended Javadoc Doclet engine. It's a generic Java tool
 that lets you create custom Javadoc @tags and based on those @tags
 generate source code or other files.
 
-%description -l pl
+%description -l pl.UTF-8
 XDoclet to rozszerzony silnik Javadoc Doclet. Jest generycznym
-narzêdziem Javy pozwalaj±cym tworzyæ w³asne @tagi Javadoc i na ich
-podstawie generowaæ kod ¼ród³owy lub inne pliki.
+narzÄ™dziem Javy pozwalajÄ…cym tworzyÄ‡ wÅ‚asne @tagi Javadoc i na ich
+podstawie generowaÄ‡ kod ÅºrÃ³dÅ‚owy lub inne pliki.
 
 %package doc
 Summary:	Online manual for xdoclet
-Summary(pl):	Dokumentacja online do xdoclet
+Summary(pl.UTF-8):   Dokumentacja online do xdoclet
 Group:		Documentation
 
 %description doc
 Documentation for xdoclet - a code generation engine for Java.
 
-%description doc -l pl
+%description doc -l pl.UTF-8
 Dokumentacja do xdoclet - silnika generowania kodu w Javie.
 
 %prep
