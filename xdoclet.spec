@@ -1,5 +1,5 @@
 Summary:	XDoclet - a code generation engine for Java
-Summary(pl.UTF-8):   XDoclet - silnik generowania kodu w Javie
+Summary(pl.UTF-8):	XDoclet - silnik generowania kodu w Javie
 Name:		xdoclet
 Version:	1.2
 Release:	1
@@ -29,7 +29,7 @@ podstawie generować kod źródłowy lub inne pliki.
 
 %package doc
 Summary:	Online manual for xdoclet
-Summary(pl.UTF-8):   Dokumentacja online do xdoclet
+Summary(pl.UTF-8):	Dokumentacja online do xdoclet
 Group:		Documentation
 
 %description doc
